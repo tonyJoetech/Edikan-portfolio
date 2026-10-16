@@ -349,14 +349,6 @@ body {
     font-size: 13px;
 }
 
-.scroll-hint {
-    margin-top: 60px;
-    display: flex;
-    justify-content: center;
-    color: var(--dim);
-    font-size: 10px;
-    letter-spacing: 2px;
-}
 
 /* STACK */
 .stack-header {
